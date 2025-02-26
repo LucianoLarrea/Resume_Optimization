@@ -11,8 +11,8 @@ def run():
     Run the resume optimization crew.
     """
     inputs = {
-        'job_url': 'https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178',
-        'company_name': 'Mckinsey & Co.'
+        'job_url': 'https://www.linkedin.com/jobs/view/4166876327',
+        'company_name': 'Roadz'
     }
     ResumeCrew().crew().kickoff(inputs=inputs)
 
