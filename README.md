@@ -78,8 +78,4 @@ The system uses three specialized AI agents:
 - Job posting URL
 - Company name
 
-## Support
 
-- [CrewAI Documentation](https://docs.crewai.com)
-- [Community Forum](https://community.crewai.com)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
