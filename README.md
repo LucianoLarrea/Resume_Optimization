@@ -1,5 +1,7 @@
 # Resume Optimization with CrewAI
 
+![AI-Agent](docs/AI-Agent.png)
+
 ![Resume Optimization System Architecture](docs/architecture-diagam.svg)
 
 An AI-powered tool that optimizes your resume for specific job applications using multiple AI agents. Built with [CrewAI](https://crewai.com).
